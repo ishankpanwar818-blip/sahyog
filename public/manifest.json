@@ -1,0 +1,9 @@
+{
+  "name": "SAHYOG - Connected Teams. Safer Missions",
+  "short_name": "SAHYOG",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#064e3b",
+  "description": "Offline-First Team Safety & Emergency Coordination"
+}

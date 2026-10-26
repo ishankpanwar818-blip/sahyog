@@ -1,0 +1,10 @@
+{
+  "name": "Remix SAHYOG - Connected Teams. Safer Missions",
+  "description": "Offline-First Team Safety, Situational Awareness \u0026 Emergency Coordination dashboard for defense tech and disaster rescue operations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
